@@ -27,17 +27,14 @@ To run the script, follow these steps:
    git clone https://github.com/saswatsamal/talkwithphotowithgemini.git
    cd talkwithphotowithgemini
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Set up your **Google Vertex AI** credentials and update the `PROJECT_ID`, `LOCATION`, and `MODEL_ID` in the script.
-4. Place your image in the project directory and update the `image_path` in the script.
-5. Run the script:
+
+2. Set up your **Google Vertex AI** credentials and update the `PROJECT_ID`, `LOCATION`, and `MODEL_ID` in the environment.
+3. Place your image in the project directory and update the `image_path` in the script.
+4. Run the script:
    ```sh
    python talkwithphotowithgemini.py
    ```
-6. View the AI-generated response in the console.
+7. View the AI-generated response in the console.
 
 ## Test Example
 For testing, let's assume we provide an image of a cat. The output from Gemini could be:

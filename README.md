@@ -51,7 +51,7 @@ Here's what I can tell about the image: It's a close-up shot of a tabby cat. The
 
 ## Acknowledgment
 
-This project was developed as part of Google's ML Developer Programs Vertex AI Sprint. Special thanks to the MLDP Team for their generous support in providing GCP credits and Colab units, which helped facilitate this project.
+This project was developed as part of Google's ML Developer Programs Vertex AI Sprint. Special thanks to the MLDP Team for their generous support in providing GCP credits, which helped facilitate this project.
 
 ---
 🚀 **Start talking to your images today with Gemini AI!**
